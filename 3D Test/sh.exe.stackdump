@@ -1,0 +1,7 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=00000000
+eax=00000000 ebx=71574254 ecx=006F26E6 edx=71574254 esi=00000000 edi=715700D4
+ebp=0067FD40 esp=0067FD14 program=D:\Downloads\Saturn\jo_engine_src\Compiler\SH_COFF\Other Utilities\sh.exe
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+End of stack trace
